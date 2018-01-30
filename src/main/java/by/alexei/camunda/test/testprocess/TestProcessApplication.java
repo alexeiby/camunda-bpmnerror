@@ -1,4 +1,4 @@
-package by.iba.camunda.example.testprocess;
+package by.alexei.camunda.test.testprocess;
 
 
 import org.camunda.bpm.application.ProcessApplication;
